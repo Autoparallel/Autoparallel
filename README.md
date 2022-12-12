@@ -11,6 +11,11 @@ Currently a Senior Researcher at [Primitive](https://github.com/primitivefinance
 
 *I think that having free time to just be a human is super important.*
 
+## Plans
+
+- [ ] Go to ETH Denver
+- [x] Travel to NYC to cowork
+
 ## Education
 
 Ph.D. - Mathematics ([Dissertation](https://mountainscholar.org/bitstream/handle/10217/235741/Roberts_colostate_0053A_17417.pdf?sequence=1))

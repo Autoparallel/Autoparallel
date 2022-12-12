@@ -15,6 +15,8 @@ Ph.D. - Mathematics ([Dissertation](https://mountainscholar.org/bitstream/handle
 
 BS - Mathematics and Physics 
 
+Wrote an open source textbook: [Mathematics for Physicists and Chemists](https://github.com/Autoparallel/mathematics_for_physicists_and_chemists).
+
 ## Articles and Blogs 
 
 - [Gamma Exposure for Liquidity Providers Leads to Loss-Versus-Rebalancing](https://primitivexyz.substack.com/p/gamma-exposure-for-liquidity-providers)

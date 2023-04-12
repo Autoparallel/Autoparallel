@@ -13,8 +13,7 @@ Currently a Senior Researcher at [Primitive](https://github.com/primitivefinance
 
 ## Plans
 
-- [ ] Go to ETH Denver
-- [x] Travel to NYC to cowork
+- [x] Montenegro
 
 ## Education
 

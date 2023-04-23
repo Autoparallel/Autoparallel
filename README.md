@@ -12,7 +12,7 @@ Currently a Senior Researcher at [Primitive](https://github.com/primitivefinance
 ## Plans
 
 - [x] Montenegro
-- [ ] First ARbiter simulation
+- [ ] First Arbiter simulation
 
 ## Education
 

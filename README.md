@@ -2,7 +2,9 @@
 
 - 🌱 I’m currently learning Rust.
 - 👯 I’m looking to collaborate on [Arbiter](https://github.com/primitivefinance/arbiter).
-- 🔭 Side projects: Combinatorial topological techniques in DeFi. Perhaps looking into projects like [this](https://github.com/Lichtso/geometric_algebra/).
+- 🔭 Side projects: 
+  - Combinatorial topological techniques in DeFi. 
+  - Perhaps looking into projects like [this](https://github.com/Lichtso/geometric_algebra/).
 - 📖 I am reading: 
   - [ ] [The Rust Programming Language](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788/ref=sr_1_1?crid=BD92KKAWTTD3&keywords=hooked+book+nir+eyal&sprefix=hooked+book+nir%2Caps%2C191&sr=8-1](https://www.amazon.com/Atomic-Habits-James-Clear-audiobook/dp/B07RFSSYBH/ref=sr_1_1?gclid=CjwKCAiAv9ucBhBXEiwA6N8nYE0XOb4sp8UveSF580IxLNtdIlZRCIcxyVvWYeaY9pngMsGdZoMh9xoCr9QQAvD_BwE&hvadid=390244329573&hvdev=c&hvlocphy=9028896&hvnetw=g&hvqmt=e&hvrand=17220615911703307944&hvtargid=kwd-679783660480&hydadcr=19140_10195819&keywords=atomic+habits+an+easy&qid=1670873960&sr=8-1)](https://doc.rust-lang.org/book/)).
   - [ ] [Topological Signal Processing](https://link.springer.com/book/10.1007/978-3-642-36104-3)

@@ -30,9 +30,15 @@ Wrote an open source textbook: [Mathematics for Physicists and Chemists](https:/
 
 ## Articles and Blogs 
 - [Portfolio Management: Value Functions and LP Shares](https://www.primitive.xyz/blog/portfolio_value)
+  - Brief discussion on the assumed portfolio liquidity providers take in CFMMs.
 - [Introducing Arbiter v0.1.0](https://www.primitive.xyz/blog/introducing_arbiter)
+  - Describing the simulation framework we are building at Primitive.
+- [Financial Virtual Machine](https://www.primitive.xyz/papers/yellow.pdf)
+  - A short formal paper on the FVM used to drive Primitive's core protocol: Portfolio.
 - [Solstat: A statistical approximation library](https://www.primitive.xyz/blog/solstat)
+  - Story telling about mathematical approximation leading to Primitive's use for an on-chain Gaussian approximation library.
 - [Gamma Exposure for Liquidity Providers Leads to Loss-Versus-Rebalancing](https://primitivexyz.substack.com/p/gamma-exposure-for-liquidity-providers)
+  - Pointing out the relationship between LP's assumed gamma and how this leads to LVR.
 
 <a href="https://twitter.com/Autoparallel" ><img src="https://img.shields.io/twitter/follow/Autoparallel.svg?style=social" /> </a>
 ![](https://img.shields.io/github/stars/Autoparallel?style=social)

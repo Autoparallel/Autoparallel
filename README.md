@@ -18,7 +18,7 @@ Currently a Senior Researcher at [Primitive](https://github.com/primitivefinance
 ## Plans
 - [x] ETHCC
 - [x] Arbiter deep rebuild
-- [ ] Berlin Building
+- [x] Berlin Building
 
 ## Education
 

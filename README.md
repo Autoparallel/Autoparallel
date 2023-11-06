@@ -28,7 +28,9 @@ Wrote an open source textbook: [Mathematics for Physicists and Chemists](https:/
 
 ## Articles and Blogs 
 - [Portfolio: A New Asset Management Primitive](https://www.primitive.xyz/blog/portfolio_v1.5.0-beta)
+  - Discussing the ideas and plans we have with our live protocol.
 - [Arbiter-Core Release v0.5.0](https://www.primitive.xyz/blog/arbiter_core_v0.5.0)
+  - Highlighting the changes in our minor release of `arbiter-core`
 - [Portfolio Management: Value Functions and LP Shares](https://www.primitive.xyz/blog/portfolio_value)
   - Brief discussion on the assumed portfolio liquidity providers take in CFMMs.
 - [Introducing Arbiter v0.1.0](https://www.primitive.xyz/blog/introducing_arbiter)

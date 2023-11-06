@@ -1,3 +1,8 @@
+<a href="https://twitter.com/Autoparallel" ><img src="https://img.shields.io/twitter/follow/Autoparallel.svg?style=social" /> </a>
+![](https://img.shields.io/github/stars/Autoparallel?style=social)
+![](https://img.shields.io/github/last-commit/Autoparallel/Autoparallel)
+![](https://visitor-badge.laobi.icu/badge?page_id=Autoparallel)
+
 ### Welcome!
 
 - 🌱 I’m currently learning Rust.
@@ -41,8 +46,3 @@ Wrote an open source textbook: [Mathematics for Physicists and Chemists](https:/
   - Story telling about mathematical approximation leading to Primitive's use for an on-chain Gaussian approximation library.
 - [Gamma Exposure for Liquidity Providers Leads to Loss-Versus-Rebalancing](https://primitivexyz.substack.com/p/gamma-exposure-for-liquidity-providers)
   - Pointing out the relationship between LP's assumed gamma and how this leads to LVR.
-
-<a href="https://twitter.com/Autoparallel" ><img src="https://img.shields.io/twitter/follow/Autoparallel.svg?style=social" /> </a>
-![](https://img.shields.io/github/stars/Autoparallel?style=social)
-![](https://img.shields.io/github/last-commit/Autoparallel/Autoparallel)
-![](https://visitor-badge.laobi.icu/badge?page_id=Autoparallel)

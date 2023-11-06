@@ -16,9 +16,7 @@ In the past I studied mathematics and physics. Now, I'm more interested in compu
 Currently a Senior Researcher at [Primitive](https://github.com/primitivefinance)
 
 ## Plans
-- [x] ETHCC
-- [x] Arbiter deep rebuild
-- [x] Berlin Building
+- [ ] Devconnect
 
 ## Education
 
@@ -29,6 +27,8 @@ BS - Mathematics and Physics
 Wrote an open source textbook: [Mathematics for Physicists and Chemists](https://github.com/Autoparallel/mathematics_for_physicists_and_chemists).
 
 ## Articles and Blogs 
+- [Portfolio: A New Asset Management Primitive](https://www.primitive.xyz/blog/portfolio_v1.5.0-beta)
+- [Arbiter-Core Release v0.5.0](https://www.primitive.xyz/blog/arbiter_core_v0.5.0)
 - [Portfolio Management: Value Functions and LP Shares](https://www.primitive.xyz/blog/portfolio_value)
   - Brief discussion on the assumed portfolio liquidity providers take in CFMMs.
 - [Introducing Arbiter v0.1.0](https://www.primitive.xyz/blog/introducing_arbiter)

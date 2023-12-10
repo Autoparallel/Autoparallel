@@ -21,7 +21,7 @@ In the past I studied mathematics and physics. Now, I'm more interested in compu
 Currently a Senior Researcher at [Primitive](https://github.com/primitivefinance)
 
 ## Plans
-- [ ] Devconnect
+- [x] Devconnect
 
 ## Education
 

@@ -32,6 +32,10 @@ BS - Mathematics and Physics
 Wrote an open source textbook: [Mathematics for Physicists and Chemists](https://github.com/Autoparallel/mathematics_for_physicists_and_chemists).
 
 ## Articles and Blogs 
+### My blog
+My personal blog is located [here](https://autoparallel.substack.com).
+
+### At Primitive:
 - [Portfolio: A New Asset Management Primitive](https://www.primitive.xyz/blog/portfolio_v1.5.0-beta)
   - Discussing the ideas and plans we have with our live protocol.
 - [Arbiter-Core Release v0.5.0](https://www.primitive.xyz/blog/arbiter_core_v0.5.0)

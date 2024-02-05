@@ -36,7 +36,7 @@ Wrote an open source textbook: [Mathematics for Physicists and Chemists](https:/
 My personal blog is located [here](https://autoparallel.substack.com).
 
 ### At Primitive:
-- [Dynamic Function Market Makers](https://www.primitive.xyz/blog/dynamic_function_market_makers
+- [Dynamic Function Market Makers](https://www.primitive.xyz/blog/dynamic_function_market_makers)
   - Describing a framework for AMMs with evolving trading functions.
 - [Portfolio: A New Asset Management Primitive](https://www.primitive.xyz/blog/portfolio_v1.5.0-beta)
   - Discussing the ideas and plans we have with our live protocol.

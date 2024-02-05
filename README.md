@@ -21,7 +21,7 @@ In the past I studied mathematics and physics. Now, I'm more interested in compu
 Currently a Senior Researcher at [Primitive](https://github.com/primitivefinance)
 
 ## Plans
-- [x] Devconnect
+- [ ] Jessy's Hacker House in ETH Denver
 
 ## Education
 
@@ -36,6 +36,8 @@ Wrote an open source textbook: [Mathematics for Physicists and Chemists](https:/
 My personal blog is located [here](https://autoparallel.substack.com).
 
 ### At Primitive:
+- [Dynamic Function Market Makers](https://www.primitive.xyz/blog/dynamic_function_market_makers
+  - Describing a framework for AMMs with evolving trading functions.
 - [Portfolio: A New Asset Management Primitive](https://www.primitive.xyz/blog/portfolio_v1.5.0-beta)
   - Discussing the ideas and plans we have with our live protocol.
 - [Arbiter-Core Release v0.5.0](https://www.primitive.xyz/blog/arbiter_core_v0.5.0)

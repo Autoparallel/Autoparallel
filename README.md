@@ -9,7 +9,7 @@ All opinions shared there are my own and do not reflect any views from any organ
 
 - 👯 I’m looking to collaborate on [ronkathon](https://github.com/pluto/ronkathon).
 - 📖 I am reading:
-  - [ ] The Three Body Problem Series
+  - [x] The Three Body Problem Series
   - [ ] [Real World Cryptography](https://www.manning.com/books/real-world-cryptography)
   - [ ] [Proofs, Arguments, and Zero-Knowledge](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.html)
 

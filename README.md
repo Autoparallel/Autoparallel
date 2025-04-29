@@ -7,18 +7,19 @@
 You can find my personal site here: [autoparallel.xyz](https://autoparallel.xyz).
 All opinions shared there are my own and do not reflect any views from any organizations I am associated with whatsoever.
 
-- 👯 I’m looking to collaborate on [ronkathon](https://github.com/pluto/ronkathon).
-- 📖 I am reading:
-  - [x] The Three Body Problem Series
-  - [ ] [Real World Cryptography](https://www.manning.com/books/real-world-cryptography)
-  - [ ] [Proofs, Arguments, and Zero-Knowledge](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.html)
+My core focus today is building mathematics-based software alongside [Harness Labs](https://github.com/harnesslabs).
 
-In the past I studied mathematics and physics. Now, I'm more interested in computing and distributed systems as well as cryptography. 
+---
+
+In the past I studied mathematics and physics. Now, I've also become interested in computing, distributed systems, and cryptography. 
 There's a wonderful interplay between math and computing that I started to love over the years. 
 I would really enjoy getting to apply the background I have in pure mathematics to formal verification of software. 
 Quantum computing is another subject high on my list of interests (and would be fun to explore deeper given my background in Clifford algebras).
 
-Currently a Staff Research Engineer at [Pluto](https://github.com/pluto)
+Previously: 
+- Staff Research Engineer at [Pluto](https://github.com/pluto)
+- Staff Research Engineer at Primitive
+
 
 ## Education
 
@@ -30,7 +31,7 @@ Wrote an open source textbook: [Mathematics for Physicists and Chemists](https:/
 
 ## Articles and Blogs 
 
-### At Primitive:
+### At Primitive (site no longer live): 
 - [Dynamic Function Market Makers](https://www.primitive.xyz/blog/dynamic_function_market_makers)
   - Describing a framework for AMMs with evolving trading functions.
 - [Portfolio: A New Asset Management Primitive](https://www.primitive.xyz/blog/portfolio_v1.5.0-beta)

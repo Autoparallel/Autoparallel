@@ -7,7 +7,14 @@
 You can find my personal site here: [autoparallel.xyz](https://autoparallel.xyz).
 All opinions shared there are my own and do not reflect any views from any organizations I am associated with whatsoever.
 
-My core focus today is building mathematics-based software alongside [Harness Labs](https://github.com/harnesslabs).
+My focus today is building mathematics-based software alongside [Harness Labs](https://github.com/harnesslabs).
+
+**Core Contributor to:**
+- [Arbiter](https://github.com/anthias-labs/arbiter)
+    - Blazing fast multi-agent EVM-based simulations
+- [Ronkathon](https://github.com/pluto/ronkathon)
+    - Cryptography from first principles
+
 
 ---
 
@@ -16,7 +23,7 @@ There's a wonderful interplay between math and computing that I started to love 
 I would really enjoy getting to apply the background I have in pure mathematics to formal verification of software. 
 Quantum computing is another subject high on my list of interests (and would be fun to explore deeper given my background in Clifford algebras).
 
-Previously: 
+**Previously:**
 - Staff Research Engineer at [Pluto](https://github.com/pluto)
 - Staff Research Engineer at Primitive
 

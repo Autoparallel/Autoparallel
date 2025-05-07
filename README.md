@@ -10,8 +10,6 @@ All opinions shared there are my own and do not reflect any views from any organ
 My focus today is building mathematics-based software alongside my organization, [Harness Labs](https://github.com/harnesslabs).
 
 **Core Contributor to:**
-- [Harness](https://github.com/harnesslabs/harness)
-    - Open-source mathematical software monorepo
 - [Arbiter](https://github.com/anthias-labs/arbiter)
     - Blazing fast multi-agent EVM-based simulations
 - [Ronkathon](https://github.com/pluto/ronkathon)

@@ -4,14 +4,18 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=Autoparallel)
 
 ### Welcome!
+I am currently Co-Founder & CTO at [Multifactor](https://multifactor.com)
+
 You can find my personal site here: [autoparallel.xyz](https://autoparallel.xyz).
 All opinions shared there are my own and do not reflect any views from any organizations I am associated with whatsoever.
 
-My focus today is building mathematics-based software alongside my organization, [Harness Labs](https://github.com/harnesslabs).
+On the side, I love building mathematics-based software with [Harness Labs](https://github.com/harnesslabs).
 
 **Core Contributor to:**
-- [Arbiter](https://github.com/anthias-labs/arbiter)
-    - Blazing fast multi-agent EVM-based simulations
+- [Arbiter](https://github.com/harnesslabs/arbiter)
+    - Multi-agent framework for design, simulation, and auditing
+- [Cova](https://github.com/harnesslabs/cova)
+    - Abstract mathematics made computational
 - [Ronkathon](https://github.com/pluto/ronkathon)
     - Cryptography from first principles
 

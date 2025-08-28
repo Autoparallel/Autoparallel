@@ -1,61 +1,32 @@
-<a href="https://twitter.com/Autoparallel" ><img src="https://img.shields.io/twitter/follow/Autoparallel.svg?style=social" /> </a>
-![](https://img.shields.io/github/stars/Autoparallel?style=social)
-![](https://img.shields.io/github/last-commit/Autoparallel/Autoparallel)
-![](https://visitor-badge.laobi.icu/badge?page_id=Autoparallel)
-
-### Welcome!
-I am currently Co-Founder & CTO at [Multifactor](https://multifactor.com)
-
-You can find my personal site here: [autoparallel.xyz](https://autoparallel.xyz).
-All opinions shared there are my own and do not reflect any views from any organizations I am associated with whatsoever.
-
-On the side, I love building mathematics-based software with [Harness Labs](https://github.com/harnesslabs).
-
-**Core Contributor to:**
-- [Arbiter](https://github.com/harnesslabs/arbiter)
-    - Multi-agent framework for design, simulation, and auditing
-- [Cova](https://github.com/harnesslabs/cova)
-    - Abstract mathematics made computational
-- [Ronkathon](https://github.com/pluto/ronkathon)
-    - Cryptography from first principles
-
+<p align="left">
+  <a href="https://twitter.com/Autoparallel" target="_blank"><img src="https://img.shields.io/twitter/follow/Autoparallel.svg?style=social&label=Follow" /></a>
+  <a href="https://github.com/Autoparallel" target="_blank"><img src="https://img.shields.io/github/stars/Autoparallel?style=social" /></a>
+</p>
 
 ---
 
-In the past I studied mathematics and physics. Now, I've also become interested in computing, distributed systems, and cryptography. 
-There's a wonderful interplay between math and computing that I started to love over the years. 
-I would really enjoy getting to apply the background I have in pure mathematics to formal verification of software. 
-Quantum computing is another subject high on my list of interests (and would be fun to explore deeper given my background in Clifford algebras).
+### About Me
 
-**Previously:**
-- Staff Research Engineer at [Pluto](https://github.com/pluto)
-- Staff Research Engineer at Primitive
+I am a mathematician and physicist turned research engineer, currently serving as Co-Founder & CTO at [**Multifactor**](https://multifactor.com).
 
+My core design philosophy is to build beautiful math and beautiful software: systems that are **provable, modular, extensible, and composable**. I believe the rigor of first-principles thinking is the foundation for creating robust, secure, and impactful technology. This approach applies whether I'm working on applied cryptography, distributed systems, or agent-based simulation.
 
-## Education
+### Current Focus: Multifactor
 
-Ph.D. - Mathematics ([Dissertation](https://mountainscholar.org/bitstream/handle/10217/235741/Roberts_colostate_0053A_17417.pdf?sequence=1))
+At Multifactor, we are redefining zero-trust for the modern web by leveraging post-quantum cryptography to bring mathematically-provable security to complex applications.
 
-BS - Mathematics and Physics 
+### Open Source Projects
 
-Wrote an open source textbook: [Mathematics for Physicists and Chemists](https://github.com/Autoparallel/mathematics_for_physicists_and_chemists).
+On the side, I lead mathematics-based software development with [**Harness Labs**](https://github.com/harnesslabs).
 
-## Articles and Blogs 
+* [**Arbiter**](https://github.com/harnesslabs/arbiter): A multi-agent framework for the design, simulation, and auditing of complex systems.
+* [**Cova**](https://github.com/harnesslabs/cova): A library for making abstract mathematics computational.
+* [**Ronkathon**](https://github.com/pluto/ronkathon): A project for learning and implementing cryptographic primitives from first principles.
 
-### At Primitive (site no longer live): 
-- [Dynamic Function Market Makers](https://www.primitive.xyz/blog/dynamic_function_market_makers)
-  - Describing a framework for AMMs with evolving trading functions.
-- [Portfolio: A New Asset Management Primitive](https://www.primitive.xyz/blog/portfolio_v1.5.0-beta)
-  - Discussing the ideas and plans we have with our live protocol.
-- [Arbiter-Core Release v0.5.0](https://www.primitive.xyz/blog/arbiter_core_v0.5.0)
-  - Highlighting the changes in our minor release of `arbiter-core`
-- [Portfolio Management: Value Functions and LP Shares](https://www.primitive.xyz/blog/portfolio_value)
-  - Brief discussion on the assumed portfolio liquidity providers take in CFMMs.
-- [Introducing Arbiter v0.1.0](https://www.primitive.xyz/blog/introducing_arbiter)
-  - Describing the simulation framework we are building at Primitive.
-- [Financial Virtual Machine](https://www.primitive.xyz/papers/yellow.pdf)
-  - A short formal paper on the FVM used to drive Primitive's core protocol: Portfolio.
-- [Solstat: A statistical approximation library](https://www.primitive.xyz/blog/solstat)
-  - Story telling about mathematical approximation leading to Primitive's use for an on-chain Gaussian approximation library.
-- [Gamma Exposure for Liquidity Providers Leads to Loss-Versus-Rebalancing](https://primitivexyz.substack.com/p/gamma-exposure-for-liquidity-providers)
-  - Pointing out the relationship between LP's assumed gamma and how this leads to LVR.
+### Background & Education
+
+* **Previously:** Staff Research Engineer at **Pluto** & **Primitive**.
+* **Ph.D. in Mathematics** from Colorado State University.
+    * [Dissertation Link](https://mountainscholar.org/bitstream/handle/10217/235741/Roberts_colostate_0053A_17417.pdf?sequence=1)
+* **B.S. in Mathematics and Physics** from Colorado State University.
+* **Author:** [Mathematics for Physicists and Chemists](https://github.com/Autoparallel/mathematics_for_physicists_and_chemists), an open-source textbook.

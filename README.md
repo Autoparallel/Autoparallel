@@ -15,6 +15,8 @@ My core design philosophy is to build beautiful math and beautiful software: sys
 
 At Multifactor, we are redefining zero-trust for the modern web by leveraging post-quantum cryptography to bring mathematically-provable security to complex applications.
 
+If you want to contribute to a related open-source project, check out [MFKDF2.rs](https://github.com/multifactor/MFKDF2.rs). Read more about MFKDF [here](https://mfkdf.com).
+
 ### Open Source Projects
 
 On the side, I lead mathematics-based software development with [**Harness Labs**](https://github.com/harnesslabs).
